@@ -1,0 +1,23 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>Curriculum Vitae</title>
+    </head>
+    <body>
+
+        <header>
+            <h1>Juan Perez</h1>
+            <h2>Ingeniero de Software</h2>
+        </header>
+
+        <address>
+            <p>Email: juan.perez@example.com</p>
+            <p>Telefono: 123-456-7890</p>
+            <p>Direccion: Calle Falsa 123, ciudad, Pais</p>
+        </address>
+
+        <section>
+            <h2>Experiencia Profesional</h2>
+            <ul>
+                <li>Ingeniero de software en XYZ Corp (2020 - presente)</li>
+                
